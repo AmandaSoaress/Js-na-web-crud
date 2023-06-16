@@ -1,0 +1,24 @@
+{
+  "profile": [
+    {
+      "nome": "Amanda",
+      "email": "amanda@alura.com",
+      "id": 1
+    },
+    {
+      "nome": "David Dias Santana",
+      "email": "srdavidsilva@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Cinthia",
+      "email": "badialli@gmail.com",
+      "id": 3
+    },
+    {
+      "nome": "wendy",
+      "email": "amanda.s.soares@hotmail.com",
+      "id": 4
+    }
+  ]
+}
