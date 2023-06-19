@@ -37,7 +37,8 @@ tabela.addEventListener('click', async (evento) => {
     }
 })
 const render  = async () => {
-    try {  const listaClientes =  await clienteService.listaClientes()
+    try { 
+         const listaClientes =  await clienteService.listaClientes()
     listaClientes.forEach(elemento => {
             tabela.appendChild(criaNovaLinha(elemento.nome, elemento.email, elemento.id))
         })
